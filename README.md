@@ -1,5 +1,5 @@
 # “How do people decide?”: Rules for Third-Party Library Selection in Companies
-Replication Package for the Paper titled "Process, Factors, Conditions and Guiding Principles: A Model of Software Library Adoption in Industry"
+Replication Package for the Paper titled “How do people decide?”: Rules for Third-Party Library Selection in Companies
 
 1. This is the interview script submitted to Research Ethics Board for approval: 
 - "01. INTERVIEW-Interview Script.pdf"

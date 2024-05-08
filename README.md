@@ -1,5 +1,13 @@
 # “How do people decide?”: A Model for Software Library Selection
-Replication Package for the Paper titled “How do people decide?”: Rules for Third-Party Library Selection in Companies
+Replication Package for the Paper titled “How do people decide?”: A Model for Software Library Selection
+
+Paper published in the 17th International Conference on Cooperative and Human Aspects of Software Engineering (CHASE 2024)
+
+Conference Link: https://conf.researchr.org/details/chase-2024/chase-2024-full-papers/3/-How-do-people-decide-A-Model-for-Software-Library-Selection
+
+Paper Link (arXiv): https://arxiv.org/abs/2403.16245
+
+## Contents:
 
 1. This is the interview script submitted to Research Ethics Board for approval: 
 - "01. INTERVIEW-Interview Script.pdf"
